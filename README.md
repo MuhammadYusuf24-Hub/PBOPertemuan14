@@ -1,5 +1,11 @@
 # PBOPertemuan14
-Langkah – Langkah :  
+Perkembangan teknologi informasi saat ini menuntut sistem pengelolaan data yang cepat, akurat, dan aman. Dalam konteks bisnis atau manajemen kafe, pengolahan data pesanan, menu, dan pelanggan menjadi salah satu aspek penting untuk mendukung operasional yang efisien. Oleh karena itu, dibutuhkan sebuah aplikasi yang mampu memfasilitasi pencatatan transaksi sekaligus menjaga keamanan akses data.  
+
+Aplikasi ini dilengkapi dengan form login yang berfungsi sebagai mekanisme autentikasi, sehingga hanya pengguna terdaftar yang dapat mengakses sistem. Dengan adanya login, keamanan data pelanggan dan transaksi dapat lebih terjamin. Selain itu, aplikasi menyediakan button download CSV yang memungkinkan pengguna mengekspor data dari database ke file CSV. Fitur ini mempermudah analisis data, pembuatan laporan, serta backup informasi penting karena format CSV mudah dibuka di berbagai aplikasi spreadsheet seperti Microsoft Excel atau Google Sheets.  
+
+Dengan adanya form login dan button download CSV, aplikasi ini tidak hanya meningkatkan keamanan dan kontrol akses, tetapi juga mempermudah pengguna dalam mengelola data secara efisien. Integrasi fitur-fitur ini mendukung terciptanya sistem informasi yang handal dan praktis untuk kebutuhan operasional sehari-hari, sehingga proses pengelolaan menu, pesanan, dan pelanggan menjadi lebih terstruktur dan terdokumentasi dengan baik.  
+
+# Langkah – Langkah :  
 1.	Buat database baru terlebih dahulu  
 2.	Kemudian buat table berikut pada database   
  <img width="891" height="696" alt="image" src="https://github.com/user-attachments/assets/2571f6af-e95d-4ac7-8c23-89cbe1bcf360" />  
@@ -66,11 +72,11 @@ buat 3 yang digunakan untuk table menu, pesanan, dan detailpesanan
 17.	Masukkan kode berikut untuk cetak di masing masing table sesuaikan nama file jrxml nya  
 <img width="940" height="313" alt="image" src="https://github.com/user-attachments/assets/b6b721b2-3f19-4047-b444-6c874e489cfe" />  
 
-19.	Buat juga untuk button download untuk setiap table    
+18.	Buat juga untuk button download untuk setiap table    
 Contoh source  code untuk table menu  
  <img width="687" height="576" alt="image" src="https://github.com/user-attachments/assets/b7698cb7-887f-44da-928d-4e8bb5925e9e" />  
  <img width="876" height="570" alt="image" src="https://github.com/user-attachments/assets/4f0654cc-d3d2-45ef-aad7-cd68e2774f98" />  
  <img width="849" height="369" alt="image" src="https://github.com/user-attachments/assets/46a906b4-abe9-40f0-8f62-a83bafbeb074" />  
 
-21.	Masukkan juga sorce code nya untuk table pesanan dan detail pesanan sesuaikan programnya dengan masing masing table  
-22.	Setelah selesai program bisa dijalankan dari login dan akan terhubung ke cafe  
+19.	Masukkan juga sorce code nya untuk table pesanan dan detail pesanan sesuaikan programnya dengan masing masing table  
+20.	Setelah selesai program bisa dijalankan dari login dan akan terhubung ke cafe  
