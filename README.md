@@ -23,7 +23,7 @@ Login :
 Register :  
  <img width="549" height="389" alt="image" src="https://github.com/user-attachments/assets/cc2b52ba-7511-4faa-86e6-66d2c902ec2d" />   
 
-Forgor Password : 
+Forgot Password :  
  <img width="563" height="362" alt="image" src="https://github.com/user-attachments/assets/55769b42-ad0c-45e0-9586-3be9108be962" />  
 
 Reset Password :  
