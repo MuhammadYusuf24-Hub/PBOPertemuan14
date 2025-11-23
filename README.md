@@ -15,10 +15,10 @@ Login :
 <img width="536" height="484" alt="image" src="https://github.com/user-attachments/assets/f025c806-a610-44c6-afbb-ebf50b95c1e5" />  
 
 Register :  
- <img width="549" height="389" alt="image" src="https://github.com/user-attachments/assets/cc2b52ba-7511-4faa-86e6-66d2c902ec2d" />  
+ <img width="549" height="389" alt="image" src="https://github.com/user-attachments/assets/cc2b52ba-7511-4faa-86e6-66d2c902ec2d" />   
 
 Forgor Password : 
- <img width="563" height="362" alt="image" src="https://github.com/user-attachments/assets/55769b42-ad0c-45e0-9586-3be9108be962" /> 
+ <img width="563" height="362" alt="image" src="https://github.com/user-attachments/assets/55769b42-ad0c-45e0-9586-3be9108be962" />  
 
 Reset Password :  
   <img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/f16ea1e7-2e06-4178-9d73-db3e847b645c" />  
